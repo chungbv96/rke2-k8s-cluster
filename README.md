@@ -1,5 +1,5 @@
 # rke2-k8s-cluster
-# Referance: https://github.com/JamesTurland/JimsGarage/tree/main/Ansible/Playbooks/RKE2
+# Referrence: https://github.com/JamesTurland/JimsGarage/tree/main/Ansible/Playbooks/RKE2
 # Requirements: Ansible version > 2.10
 # etc/hosts
 server1 10.24.28.51
